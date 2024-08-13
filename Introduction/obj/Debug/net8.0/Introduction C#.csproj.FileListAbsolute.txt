@@ -1,0 +1,28 @@
+D:\Prepration of C#\Introduction C#\bin\Debug\net8.0\Introduction C#.exe
+D:\Prepration of C#\Introduction C#\bin\Debug\net8.0\Introduction C#.deps.json
+D:\Prepration of C#\Introduction C#\bin\Debug\net8.0\Introduction C#.runtimeconfig.json
+D:\Prepration of C#\Introduction C#\bin\Debug\net8.0\Introduction C#.dll
+D:\Prepration of C#\Introduction C#\bin\Debug\net8.0\Introduction C#.pdb
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.AssemblyInfoInputs.cache
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.AssemblyInfo.cs
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.csproj.CoreCompileInputs.cache
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.dll
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\refint\Introduction C#.dll
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.pdb
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\Introduction C#.genruntimeconfig.cache
+D:\Prepration of C#\Introduction C#\obj\Debug\net8.0\ref\Introduction C#.dll
+D:\Prepration of C#\Introduction\bin\Debug\net8.0\Introduction C#.exe
+D:\Prepration of C#\Introduction\bin\Debug\net8.0\Introduction C#.deps.json
+D:\Prepration of C#\Introduction\bin\Debug\net8.0\Introduction C#.runtimeconfig.json
+D:\Prepration of C#\Introduction\bin\Debug\net8.0\Introduction C#.dll
+D:\Prepration of C#\Introduction\bin\Debug\net8.0\Introduction C#.pdb
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.AssemblyInfoInputs.cache
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.AssemblyInfo.cs
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.csproj.CoreCompileInputs.cache
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.dll
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\refint\Introduction C#.dll
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.pdb
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\Introduction C#.genruntimeconfig.cache
+D:\Prepration of C#\Introduction\obj\Debug\net8.0\ref\Introduction C#.dll
